@@ -1,4 +1,4 @@
-# TheModernWizardsMagic
+# The Modern Wizards Magic
 Utilizes the Kano coding Wand and Smart things API to control smartthings enabled devices within the Users home,
 Project Description:
 
