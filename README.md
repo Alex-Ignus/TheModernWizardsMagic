@@ -1,5 +1,5 @@
 # The Modern Wizards Magic
-Utilizes the Kano coding Wand and Smart things API to control smartthings enabled devices within the Users home,
+
 Project Description:
 
 You’re a Wizard Harry….Okay, so your name isn’t Harry and you are not a wizard, but that’s okay you can still wield the power of modern Muggle technology. If you have an android device, or a Raspberry Pi, acquired the Kano Coding Wand, and you have a smartthings enabled device; You can now weave Magic in mid-air and watch your electronics dance for you!
